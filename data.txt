@@ -1,0 +1,5 @@
+********************************
+Your loan ammount is: $90000
+Your loan length in years is: 5
+Your monthly payment is: $1739.95
+Your interest rate is: 6%
